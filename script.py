@@ -376,4 +376,4 @@ if __name__ == "__main__":
     # Call and execute the chat() function.
 
 
-    #chat()
+    chat()
