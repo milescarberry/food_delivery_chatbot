@@ -1,2 +1,2 @@
-model_checkpoint_path: "C:\\Users\\LENOVO\\Documents\\Avatar\\Python AI Chatbot\\chatbot_model.tflearn"
-all_model_checkpoint_paths: "C:\\Users\\LENOVO\\Documents\\Avatar\\Python AI Chatbot\\chatbot_model.tflearn"
+model_checkpoint_path: "C:\\Users\\LENOVO\\Documents\\Avatar\\food_delivery_chatbot\\swiggy_chatbot.tflearn"
+all_model_checkpoint_paths: "C:\\Users\\LENOVO\\Documents\\Avatar\\food_delivery_chatbot\\swiggy_chatbot.tflearn"
